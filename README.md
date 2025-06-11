@@ -22,15 +22,9 @@ Weather Screens
 </div>
 
 ## App Demo Videos
-https://github.com/user-attachments/assets/3d0a2f15-09f8-4bd9-af52-0cf601dd0dd5
-<div align="center">
-  <video width="400" controls>
-    <source src="https://github.com/user-attachments/assets/3d0a2f15-09f8-4bd9-af52-0cf601dd0dd5" type="video/mp4">
-  </video>
-  <video width="400" controls>
-    <source src="https://github.com/khaatteerr/weather-app-assets/blob/main/Record_2025-06-11-17-23-51_866e054aaf05788d90cdc472497efeb2.mp4" type="video/mp4">
-  </video>
-</div>
+| Authentication Flow | Note Management |
+|:---:|:---:|
+| <video width="400" controls><source src="https://github.com/user-attachments/assets/2cd5fad9-5c12-497d-a888-81c02dd87b65" type="video/mp4"></video> | <video width="400" controls><source src="https://github.com/user-attachments/assets/2cd5fad9-5c12-497d-a888-81c02dd87b65" type="video/mp4"></video> |
 ## Built With 🛠
 
 *  [Kotlin](https://kotlinlang.org/) 
