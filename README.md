@@ -15,7 +15,7 @@
 
  ## App Overview
 
-Authentication Screens
+Weather Screens
 <div align="center">
   <img src="https://i.ibb.co/4wHX2PgC/IMG-20250611-16270490.jpg" width="300" />
   <img src="https://i.ibb.co/fz5BjcV7/Screenshot-2025-06-11-16-26-58-64-866e054aaf05788d90cdc472497efeb2.jpg" width="300" />
