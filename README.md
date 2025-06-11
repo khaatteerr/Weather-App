@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
- **Weather App** That's Built With Kotlin to get accurate, real-time weather information with a beautiful, user-friendly interface that makes checking the weather a delightful experience. This repository contains a Weather App This is an educational App at the chance. Use and run this App to learn more about Apps design and best practices. That's built with Kotlin language with compose, That's implements Coroutines,Ktor-client for HTTP requests,clean architecture,koin,etc. 
+ **Weather App** That's Built With Kotlin to get accurate, real-time weather information with a beautiful, user-friendly interface that makes checking the weather a delightful experience. This repository contains a Weather App This is an educational App at **the chance** :. Use and run this App to learn more about Apps design and best practices. That's built with Kotlin language with compose, That's implements Coroutines,Ktor-client for HTTP requests,clean architecture,koin,etc. 
 
  ![](https://i.ibb.co/sp6v0yVg/weather-cover.png)
  
