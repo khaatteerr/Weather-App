@@ -25,7 +25,7 @@ Weather Screens
 
 <div align="center">
   <video width="400" controls>
-    <source src="https://github.com/khaatteerr/weather-app-assets/blob/main/Record_2025-06-09-19-41-24_866e054aaf05788d90cdc472497efeb2.mp4" type="video/mp4">
+    <source src="https://github.com/user-attachments/assets/3d0a2f15-09f8-4bd9-af52-0cf601dd0dd5" type="video/mp4">
   </video>
   <video width="400" controls>
     <source src="https://github.com/khaatteerr/weather-app-assets/blob/main/Record_2025-06-11-17-23-51_866e054aaf05788d90cdc472497efeb2.mp4" type="video/mp4">
