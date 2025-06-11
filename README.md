@@ -24,7 +24,7 @@ Weather Screens
 ## App Demo Videos
 | Dark Theme | Light Theme |
 |:---:|:---:|
-https://github.com/user-attachments/assets/2cd5fad9-5c12-497d-a888-81c02dd87b65 
+| <video src="https://github.com/user-attachments/assets/2cd5fad9-5c12-497d-a888-81c02dd87b65" type="video/mp4"/>  | <video src="https://github.com/user-attachments/assets/2cd5fad9-5c12-497d-a888-81c02dd87b65" type="video/mp4"/> |
 ## Built With 🛠
 
 *  [Kotlin](https://kotlinlang.org/) 
