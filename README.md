@@ -30,11 +30,11 @@ Weather Screens
 *  [Kotlin](https://kotlinlang.org/) 
 *  [Jetpack Compose](https://developer.android.com/jetpack/compose) 
 *  [Coroutines](https://developer.android.com/kotlin/coroutines)
-*  MVVM architecture
-*  Clean architecture
 *  [Koin](https://insert-koin.io/) 
 *  [Ktor-Client](https://ktor.io/docs/getting-started-ktor-client-multiplatform-mobile.html)
 *  [Serialization](https://kotlinlang.org/docs/serialization.html/)
+*  MVVM architecture
+*  Clean architecture
 *  Single activity concept 
 *  Repository pattern
 
