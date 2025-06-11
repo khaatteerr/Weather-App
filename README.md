@@ -22,9 +22,9 @@ Weather Screens
 </div>
 
 ## App Demo Videos
-| Authentication Flow | Note Management |
+| Dark Theme | Light Theme |
 |:---:|:---:|
-| <video width="400" controls><source src="https://github.com/user-attachments/assets/2cd5fad9-5c12-497d-a888-81c02dd87b65" type="video/mp4"></video> | <video width="400" controls><source src="https://github.com/user-attachments/assets/2cd5fad9-5c12-497d-a888-81c02dd87b65" type="video/mp4"></video> |
+https://github.com/user-attachments/assets/2cd5fad9-5c12-497d-a888-81c02dd87b65 
 ## Built With 🛠
 
 *  [Kotlin](https://kotlinlang.org/) 
